@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\RepeatString\RepeatString\bin\Debug\net8.0\RepeatString.exe
+C:\Users\ninag\RiderProjects\RepeatString\RepeatString\bin\Debug\net8.0\RepeatString.deps.json
+C:\Users\ninag\RiderProjects\RepeatString\RepeatString\bin\Debug\net8.0\RepeatString.runtimeconfig.json
+C:\Users\ninag\RiderProjects\RepeatString\RepeatString\bin\Debug\net8.0\RepeatString.dll
+C:\Users\ninag\RiderProjects\RepeatString\RepeatString\bin\Debug\net8.0\RepeatString.pdb
+C:\Users\ninag\RiderProjects\RepeatString\RepeatString\obj\Debug\net8.0\RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\RepeatString\RepeatString\obj\Debug\net8.0\RepeatString.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\RepeatString\RepeatString\obj\Debug\net8.0\RepeatString.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\RepeatString\RepeatString\obj\Debug\net8.0\RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\RepeatString\RepeatString\obj\Debug\net8.0\RepeatString.dll
+C:\Users\ninag\RiderProjects\RepeatString\RepeatString\obj\Debug\net8.0\refint\RepeatString.dll
+C:\Users\ninag\RiderProjects\RepeatString\RepeatString\obj\Debug\net8.0\RepeatString.pdb
+C:\Users\ninag\RiderProjects\RepeatString\RepeatString\obj\Debug\net8.0\RepeatString.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\RepeatString\RepeatString\obj\Debug\net8.0\ref\RepeatString.dll
